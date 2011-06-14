@@ -2,7 +2,8 @@
 #labels Phase-Deploy
 
 = Installation instructions =
-  # Install the Metasploit Framework with the choosen database (SQLite3, PostgreSQL, MySQL) : https://community.rapid7.com/docs/DOC-1296
+  # Download the latest Metasploit Framework (MSF) release: http://www.metasploit.com/download/
+  # Install the MSF with the choosen database (PostgreSQL, MySQL or SQLite3): https://community.rapid7.com/docs/DOC-1296
   # Download XSSF from the SVN (svn checkout http://xssf.googlecode.com/svn/trunk/ xssf-read-only) or from the last packaged version
-  # Copy and paste all downloaded files into the Metasploit /msf3/ folder
-  # Enjoy !
+  # Copy and paste all downloaded files into the Metasploit */msf3/* folder
+  # Enjoy!
