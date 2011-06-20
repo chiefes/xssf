@@ -1,0 +1,6 @@
+#summary How to load the XSSF plugin ?
+
+= XSSF plugin loading instructions =
+ # Start Metasploit Framework (Console for example)
+ # Connect to a database if that's not automatically done
+ # Load XSSF plugin using the command 'load xssf'. XSSF server port can be modified using the option 'ServerPort=80' after loading command. XSSF server URI can be changed using the option 'ServerUri=/'.
