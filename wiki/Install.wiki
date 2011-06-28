@@ -1,5 +1,5 @@
 #summary Details about installation process
-#labels Phase-Deploy
+#labels Phase-Deploy,Featured
 
 = Installation instructions =
   # Download the latest Metasploit Framework (MSF) release: http://www.metasploit.com/download/
