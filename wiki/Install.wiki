@@ -3,8 +3,9 @@
 
 = Installation instructions =
   # Download the latest Metasploit Framework (MSF) release: http://www.metasploit.com/download/
-  # Install the MSF with the choosen database (PostgreSQL, MySQL or SQLite3): https://community.rapid7.com/docs/DOC-1296
+  # Install Metasploit Framework
   # Update Ruby to 1.9 if not already done
   # Download XSSF from the SVN (svn export http://xssf.googlecode.com/svn/trunk/ XSSF) or from the last packaged version
-  # Copy and paste all downloaded files into the Metasploit */msf3/* folder
+  # Copy and paste all downloaded files into the Metasploit ~/msf3/ folder
+  # Note that you can directly use 'svn export' command within ~/msf3/ folder. Please don't use 'svn checkout' command for XSSF within ~/msf3/ directory, that would break MSF legitimate '.svn' files, and break futures MSF updates !
   # Enjoy!
